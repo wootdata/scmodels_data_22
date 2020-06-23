@@ -1,0 +1,4 @@
+Model; Cowboy
+Author: sniperbrad
+Released: 05/08/2001
+Size: 252 kb

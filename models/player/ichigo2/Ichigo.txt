@@ -1,0 +1,14 @@
+--------------------------
+Ichigo release
+--------------------------
+credits (ichigo and zangetsu):
+
+models: enix
+textures: enix
+rig: enix
+custom animations (katana idle): enix
+
+==========================
+Please...if you edit my models please give me credit for my work.
+
+-enix

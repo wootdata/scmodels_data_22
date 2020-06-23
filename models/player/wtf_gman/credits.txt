@@ -1,0 +1,5 @@
+Textures: Gearbox
+Animations: Vavle/Sven coop team
+Model: Sylvine
+
+I'm not responsible if you're stupid. It's your mother fault.

@@ -1,0 +1,36 @@
+3-28-00
+
+----------------------------------------------------------------------
+
+Model Name              : Decepticon
+
+Model Author            : Rikki "Phukyumoto(CW)" Knight
+
+Email                   : phukyumoto@polycount.com
+
+Website                 : http://www.planetquake.com/polycount/cottages/phukyumoto
+
+Model description       : A model that was taking me far too long because of editing the 			animations to avoid clipping. 
+			  Unfortunately, I recently suffered a hard drive crash that wiped
+			out all my animation files for this puppy. I had gotten roughly half 			way through the weapon animations, and really do not feel I've got 			it in me to start doing all of them over again. So I'm releasing it 			as is. Some of the weapon anims will look fine, and some will clip 			badly, as well as some of the deaths clipping badly. I threw a few 			custom animations in as well, but most were just edited valve 				animations to avoid clippage.
+			  Hell, he really doesn't even have all the animations intact, but 			the Half-life engine is so good that he works anyway, just makes the 			unfinished anims dull.
+			  Oh yeah, the biped was also altered to fit my mesh,.. so it's form 			is intact.. no stumpy midgets here...
+
+----------------------------------------------------------------------
+
+
+* Construction *
+
+Poly Count              : 742 faces
+
+Skin Count              : 1 256x256
+
+Editor used             : 
+		Modeling - 3d Studio Max 2.5/Q2 modeller	
+		Mapping  - NST/Q2 modeller
+		Skinning - Photoshop/NST
+
+Known Bugs              : Major clipping on some weapon animations because,.. well they 			were never done so Half-Life defaults them.
+
+
+Thanks			: Mad props to Scarecrow for the awesome color change skin tutorial. 

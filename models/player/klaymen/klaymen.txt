@@ -1,0 +1,9 @@
+
+klaymen by payampap
+report to payampap@att.net
+==========================
+klaymen is a character from the neverhood ,skull monkeys and boombots.
+soft textures.
+replace model (xx.mdl & xxT.mdl) in your player models directory. rename model to your favplayerskin ( dont forget TEXMODEL)
+==========================
+have fUn!!
