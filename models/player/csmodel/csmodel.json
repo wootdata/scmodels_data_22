@@ -1,1 +1,105 @@
-{"seq_groups": 1, "hash": "236ec8c2de0cd94535047b90dd2ffd1e", "tri_count": "1260"}
+{
+	"attachments": [],
+	"bodies": [
+		{
+			"models": [
+				{
+					"name": "./reference",
+					"polys": 1260,
+					"verts": 653
+				}
+			],
+			"name": "body"
+		}
+	],
+	"controllers": [],
+	"events": [],
+	"id": 1414743113,
+	"md5": "236ec8c2de0cd94535047b90dd2ffd1e",
+	"name": "C:\\Backup\\BumperCarFiles\\Models\\csmodel\\csmodel.mdl",
+	"seq_groups": "1",
+	"sequences": [
+		{
+			"fps": 1.000000,
+			"frames": 1,
+			"name": "seq-name"
+		}
+	],
+	"skeleton": [
+		{
+			"name": "joint35",
+			"parent": -1
+		}, 
+		{
+			"name": "joint36",
+			"parent": 0
+		}, 
+		{
+			"name": "joint37",
+			"parent": 1
+		}, 
+		{
+			"name": "joint38",
+			"parent": 2
+		}, 
+		{
+			"name": "joint39",
+			"parent": 3
+		}, 
+		{
+			"name": "joint40",
+			"parent": 4
+		}, 
+		{
+			"name": "joint41",
+			"parent": 5
+		}, 
+		{
+			"name": "joint42",
+			"parent": 6
+		}, 
+		{
+			"name": "joint43",
+			"parent": 7
+		}, 
+		{
+			"name": "joint44",
+			"parent": 8
+		}
+	],
+	"skins": 1,
+	"t_model": false,
+	"textures": [
+		{
+			"flags": 0,
+			"height": 512,
+			"name": "GIGN_DMBASE2.bmp",
+			"width": 512
+		}, 
+		{
+			"flags": 0,
+			"height": 70,
+			"name": "Clouds.bmp",
+			"width": 72
+		}, 
+		{
+			"flags": 0,
+			"height": 47,
+			"name": "seats.bmp",
+			"width": 128
+		}, 
+		{
+			"flags": 0,
+			"height": 128,
+			"name": "Leather.bmp",
+			"width": 128
+		}, 
+		{
+			"flags": 0,
+			"height": 139,
+			"name": "skin.bmp",
+			"width": 156
+		}
+	],
+	"version": 10
+}

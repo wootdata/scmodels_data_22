@@ -1,1 +1,1569 @@
-{"seq_groups": 1, "hash": "3887fb852ddb1b5ccf6e7ee2475a0b2f", "tri_count": "3460", "t_model": "nya_czyt.mdl"}
+{
+	"attachments": [
+		{
+			"bone": 18,
+			"name": "",
+			"type": 0
+		}, 
+		{
+			"bone": 12,
+			"name": "",
+			"type": 0
+		}
+	],
+	"bodies": [
+		{
+			"models": [
+				{
+					"name": "CT_Girl_spy",
+					"polys": 3134,
+					"verts": 1730
+				}
+			],
+			"name": "studio"
+		}, 
+		{
+			"models": [
+				{
+					"name": "blank",
+					"polys": 0,
+					"verts": 0
+				}, 
+				{
+					"name": "defuse",
+					"polys": 80,
+					"verts": 44
+				}
+			],
+			"name": "backpack"
+		}, 
+		{
+			"models": [
+				{
+					"name": "blank",
+					"polys": 0,
+					"verts": 0
+				}, 
+				{
+					"name": "xmas_ChoiJiYoon_cap",
+					"polys": 246,
+					"verts": 130
+				}
+			],
+			"name": "xmas"
+		}
+	],
+	"controllers": [],
+	"events": [
+		{
+			"event": 2001,
+			"frame": 1,
+			"options": "",
+			"sequence": 12,
+			"type": 0
+		}, 
+		{
+			"event": 2001,
+			"frame": 1,
+			"options": "",
+			"sequence": 13,
+			"type": 0
+		}, 
+		{
+			"event": 2001,
+			"frame": 1,
+			"options": "",
+			"sequence": 14,
+			"type": 0
+		}, 
+		{
+			"event": 2001,
+			"frame": 1,
+			"options": "",
+			"sequence": 15,
+			"type": 0
+		}, 
+		{
+			"event": 2001,
+			"frame": 1,
+			"options": "",
+			"sequence": 16,
+			"type": 0
+		}, 
+		{
+			"event": 2001,
+			"frame": 1,
+			"options": "",
+			"sequence": 17,
+			"type": 0
+		}, 
+		{
+			"event": 2001,
+			"frame": 1,
+			"options": "",
+			"sequence": 18,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 1,
+			"options": "10",
+			"sequence": 49,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 1,
+			"options": "10",
+			"sequence": 53,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 1,
+			"options": "40",
+			"sequence": 57,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 1,
+			"options": "40",
+			"sequence": 61,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 1,
+			"options": "50",
+			"sequence": 65,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 1,
+			"options": "50",
+			"sequence": 69,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 1,
+			"options": "50",
+			"sequence": 73,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 1,
+			"options": "50",
+			"sequence": 76,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 1,
+			"options": "40",
+			"sequence": 79,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 1,
+			"options": "40",
+			"sequence": 83,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 1,
+			"options": "50",
+			"sequence": 87,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 1,
+			"options": "50",
+			"sequence": 91,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 0,
+			"options": "50",
+			"sequence": 95,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 0,
+			"options": "50",
+			"sequence": 98,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 1,
+			"options": "10",
+			"sequence": 107,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 1,
+			"options": "10",
+			"sequence": 110,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 1,
+			"options": "40",
+			"sequence": 113,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 1,
+			"options": "40",
+			"sequence": 115,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 1,
+			"options": "40",
+			"sequence": 121,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 0,
+			"options": "50",
+			"sequence": 125,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 0,
+			"options": "50",
+			"sequence": 128,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 0,
+			"options": "10",
+			"sequence": 132,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 0,
+			"options": "10",
+			"sequence": 133,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 0,
+			"options": "10",
+			"sequence": 134,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 0,
+			"options": "10",
+			"sequence": 140,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 0,
+			"options": "10",
+			"sequence": 141,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 0,
+			"options": "10",
+			"sequence": 142,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 1,
+			"options": "40",
+			"sequence": 147,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 1,
+			"options": "40",
+			"sequence": 148,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 1,
+			"options": "40",
+			"sequence": 153,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 1,
+			"options": "40",
+			"sequence": 154,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 1,
+			"options": "40",
+			"sequence": 159,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 1,
+			"options": "40",
+			"sequence": 161,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 1,
+			"options": "40",
+			"sequence": 167,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 0,
+			"options": "50",
+			"sequence": 171,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 0,
+			"options": "50",
+			"sequence": 175,
+			"type": 0
+		}, 
+		{
+			"event": 2001,
+			"frame": 1,
+			"options": "",
+			"sequence": 177,
+			"type": 0
+		}, 
+		{
+			"event": 2001,
+			"frame": 1,
+			"options": "",
+			"sequence": 178,
+			"type": 0
+		}, 
+		{
+			"event": 2001,
+			"frame": 1,
+			"options": "",
+			"sequence": 179,
+			"type": 0
+		}, 
+		{
+			"event": 2001,
+			"frame": 1,
+			"options": "",
+			"sequence": 180,
+			"type": 0
+		}, 
+		{
+			"event": 2001,
+			"frame": 1,
+			"options": "",
+			"sequence": 181,
+			"type": 0
+		}, 
+		{
+			"event": 2001,
+			"frame": 1,
+			"options": "",
+			"sequence": 182,
+			"type": 0
+		}, 
+		{
+			"event": 2001,
+			"frame": 1,
+			"options": "",
+			"sequence": 183,
+			"type": 0
+		}, 
+		{
+			"event": 2001,
+			"frame": 1,
+			"options": "",
+			"sequence": 184,
+			"type": 0
+		}, 
+		{
+			"event": 2001,
+			"frame": 1,
+			"options": "",
+			"sequence": 185,
+			"type": 0
+		}
+	],
+	"id": 1414743113,
+	"md5": "2f106b9ed93b0831db72b8a057dcc7d4",
+	"name": "choijiyoon.mdl",
+	"seq_groups": "1",
+	"sequences": [
+		{
+			"fps": 15.000000,
+			"frames": 61,
+			"name": "1"
+		}, 
+		{
+			"fps": 15.000000,
+			"frames": 61,
+			"name": "2"
+		}, 
+		{
+			"fps": 15.000000,
+			"frames": 61,
+			"name": "3"
+		}, 
+		{
+			"fps": 60.000000,
+			"frames": 37,
+			"name": "4"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 65,
+			"name": "5"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 2,
+			"name": "6"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 31,
+			"name": "7"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 31,
+			"name": "8"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 61,
+			"name": "9"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 86,
+			"name": "10"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 51,
+			"name": "11"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 61,
+			"name": "12"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 45,
+			"name": "13"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 71,
+			"name": "14"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 108,
+			"name": "15"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 45,
+			"name": "16"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 59,
+			"name": "17"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 71,
+			"name": "18"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 77,
+			"name": "19"
+		}, 
+		{
+			"fps": 20.000000,
+			"frames": 31,
+			"name": "20"
+		}, 
+		{
+			"fps": 20.000000,
+			"frames": 31,
+			"name": "21"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 31,
+			"name": "22"
+		}, 
+		{
+			"fps": 20.000000,
+			"frames": 31,
+			"name": "23"
+		}, 
+		{
+			"fps": 20.000000,
+			"frames": 31,
+			"name": "24"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 31,
+			"name": "25"
+		}, 
+		{
+			"fps": 20.000000,
+			"frames": 31,
+			"name": "26"
+		}, 
+		{
+			"fps": 20.000000,
+			"frames": 31,
+			"name": "27"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 31,
+			"name": "28"
+		}, 
+		{
+			"fps": 20.000000,
+			"frames": 31,
+			"name": "29"
+		}, 
+		{
+			"fps": 20.000000,
+			"frames": 31,
+			"name": "30"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 31,
+			"name": "31"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 61,
+			"name": "32"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 61,
+			"name": "33"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 61,
+			"name": "34"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 61,
+			"name": "35"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 31,
+			"name": "36"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 61,
+			"name": "37"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 61,
+			"name": "38"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 61,
+			"name": "39"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 61,
+			"name": "40"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 31,
+			"name": "41"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 151,
+			"name": "42"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 2,
+			"name": "43"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 151,
+			"name": "44"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 121,
+			"name": "45"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 2,
+			"name": "46"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 121,
+			"name": "47"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 61,
+			"name": "48"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 2,
+			"name": "49"
+		}, 
+		{
+			"fps": 15.000000,
+			"frames": 5,
+			"name": "50"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 61,
+			"name": "51"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 61,
+			"name": "52"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 2,
+			"name": "53"
+		}, 
+		{
+			"fps": 15.000000,
+			"frames": 4,
+			"name": "54"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 61,
+			"name": "55"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 2,
+			"name": "56"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 2,
+			"name": "57"
+		}, 
+		{
+			"fps": 15.000000,
+			"frames": 5,
+			"name": "58"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 61,
+			"name": "59"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 2,
+			"name": "60"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 2,
+			"name": "61"
+		}, 
+		{
+			"fps": 15.000000,
+			"frames": 5,
+			"name": "62"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 61,
+			"name": "63"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 2,
+			"name": "64"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 2,
+			"name": "65"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 31,
+			"name": "66"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 76,
+			"name": "67"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 2,
+			"name": "64"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 2,
+			"name": "68"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 31,
+			"name": "69"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 76,
+			"name": "70"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 2,
+			"name": "71"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 2,
+			"name": "72"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 31,
+			"name": "73"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 2,
+			"name": "74"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 2,
+			"name": "75"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 31,
+			"name": "76"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 2,
+			"name": "77"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 2,
+			"name": "78"
+		}, 
+		{
+			"fps": 15.000000,
+			"frames": 5,
+			"name": "79"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 61,
+			"name": "80"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 2,
+			"name": "82"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 2,
+			"name": "83"
+		}, 
+		{
+			"fps": 15.000000,
+			"frames": 5,
+			"name": "84"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 61,
+			"name": "85"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 2,
+			"name": "90"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 2,
+			"name": "91"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 12,
+			"name": "92"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 110,
+			"name": "93"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 2,
+			"name": "86"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 2,
+			"name": "87"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 12,
+			"name": "88"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 110,
+			"name": "89"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 2,
+			"name": "97"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 2,
+			"name": "98"
+		}, 
+		{
+			"fps": 2.000000,
+			"frames": 6,
+			"name": "99"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 2,
+			"name": "94"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 2,
+			"name": "95"
+		}, 
+		{
+			"fps": 2.000000,
+			"frames": 6,
+			"name": "96"
+		}, 
+		{
+			"fps": 12.000000,
+			"frames": 31,
+			"name": "100"
+		}, 
+		{
+			"fps": 12.000000,
+			"frames": 31,
+			"name": "101"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 41,
+			"name": "102"
+		}, 
+		{
+			"fps": 12.000000,
+			"frames": 31,
+			"name": "103"
+		}, 
+		{
+			"fps": 12.000000,
+			"frames": 31,
+			"name": "104"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 41,
+			"name": "105"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 61,
+			"name": "106"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 2,
+			"name": "107"
+		}, 
+		{
+			"fps": 15.000000,
+			"frames": 5,
+			"name": "108"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 61,
+			"name": "109"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 2,
+			"name": "110"
+		}, 
+		{
+			"fps": 15.000000,
+			"frames": 4,
+			"name": "111"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 2,
+			"name": "112"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 2,
+			"name": "113"
+		}, 
+		{
+			"fps": 15.000000,
+			"frames": 5,
+			"name": "114"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 2,
+			"name": "115"
+		}, 
+		{
+			"fps": 15.000000,
+			"frames": 5,
+			"name": "116"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 61,
+			"name": "117"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 2,
+			"name": "118"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 2,
+			"name": "119"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 2,
+			"name": "120"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 2,
+			"name": "121"
+		}, 
+		{
+			"fps": 15.000000,
+			"frames": 5,
+			"name": "122"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 61,
+			"name": "123"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 2,
+			"name": "124"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 2,
+			"name": "125"
+		}, 
+		{
+			"fps": 2.000000,
+			"frames": 6,
+			"name": "126"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 2,
+			"name": "127"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 2,
+			"name": "128"
+		}, 
+		{
+			"fps": 2.000000,
+			"frames": 6,
+			"name": "129"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 2,
+			"name": "130"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 2,
+			"name": "131"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 2,
+			"name": "132"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 31,
+			"name": "133"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 31,
+			"name": "134"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 31,
+			"name": "135"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 71,
+			"name": "136"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 71,
+			"name": "137"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 2,
+			"name": "138"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 2,
+			"name": "139"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 2,
+			"name": "140"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 31,
+			"name": "141"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 31,
+			"name": "142"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 31,
+			"name": "143"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 71,
+			"name": "144"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 71,
+			"name": "145"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 2,
+			"name": "146"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 2,
+			"name": "147"
+		}, 
+		{
+			"fps": 15.000000,
+			"frames": 5,
+			"name": "148"
+		}, 
+		{
+			"fps": 15.000000,
+			"frames": 5,
+			"name": "149"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 61,
+			"name": "150"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 61,
+			"name": "151"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 2,
+			"name": "152"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 2,
+			"name": "153"
+		}, 
+		{
+			"fps": 15.000000,
+			"frames": 5,
+			"name": "154"
+		}, 
+		{
+			"fps": 15.000000,
+			"frames": 5,
+			"name": "155"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 61,
+			"name": "156"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 61,
+			"name": "157"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 2,
+			"name": "158"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 2,
+			"name": "159"
+		}, 
+		{
+			"fps": 15.000000,
+			"frames": 5,
+			"name": "160"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 2,
+			"name": "161"
+		}, 
+		{
+			"fps": 15.000000,
+			"frames": 5,
+			"name": "162"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 61,
+			"name": "163"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 2,
+			"name": "164"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 2,
+			"name": "165"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 2,
+			"name": "166"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 2,
+			"name": "167"
+		}, 
+		{
+			"fps": 15.000000,
+			"frames": 5,
+			"name": "168"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 61,
+			"name": "169"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 2,
+			"name": "170"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 2,
+			"name": "171"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 6,
+			"name": "172"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 71,
+			"name": "173"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 2,
+			"name": "174"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 2,
+			"name": "175"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 6,
+			"name": "176"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 71,
+			"name": "177"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 91,
+			"name": "178"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 71,
+			"name": "179"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 86,
+			"name": "180"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 48,
+			"name": "181"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 91,
+			"name": "182"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 91,
+			"name": "183"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 71,
+			"name": "184"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 86,
+			"name": "185"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 48,
+			"name": "186"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 161,
+			"name": "187"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 171,
+			"name": "188"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 216,
+			"name": "189"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 171,
+			"name": "190"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 201,
+			"name": "191"
+		}
+	],
+	"skeleton": [
+		{
+			"name": "Bip01",
+			"parent": -1
+		}, 
+		{
+			"name": "Bip01 Pelvis",
+			"parent": 0
+		}, 
+		{
+			"name": "Bip01 Spine",
+			"parent": 1
+		}, 
+		{
+			"name": "Bip01 Spine1",
+			"parent": 2
+		}, 
+		{
+			"name": "Bip01 Spine2",
+			"parent": 3
+		}, 
+		{
+			"name": "Bip01 Spine3",
+			"parent": 4
+		}, 
+		{
+			"name": "Bip01 Neck",
+			"parent": 5
+		}, 
+		{
+			"name": "Bip01 Head",
+			"parent": 6
+		}, 
+		{
+			"name": "Bip01 Neck_Sub",
+			"parent": 6
+		}, 
+		{
+			"name": "Bip01 L Clavicle",
+			"parent": 6
+		}, 
+		{
+			"name": "Bip01 L UpperArm",
+			"parent": 9
+		}, 
+		{
+			"name": "Bip01 L Forearm",
+			"parent": 10
+		}, 
+		{
+			"name": "Bip01 L Hand",
+			"parent": 11
+		}, 
+		{
+			"name": "L UpperArm_Sub",
+			"parent": 10
+		}, 
+		{
+			"name": "Bip01 L Clavicle_Sub",
+			"parent": 9
+		}, 
+		{
+			"name": "Bip01 R Clavicle",
+			"parent": 6
+		}, 
+		{
+			"name": "Bip01 R UpperArm",
+			"parent": 15
+		}, 
+		{
+			"name": "Bip01 R Forearm",
+			"parent": 16
+		}, 
+		{
+			"name": "Bip01 R Hand",
+			"parent": 17
+		}, 
+		{
+			"name": "Bip01 R Forearm_Sub",
+			"parent": 17
+		}, 
+		{
+			"name": "R UpperArm_Sub",
+			"parent": 16
+		}, 
+		{
+			"name": "Bip01 R Clavicle_Sub",
+			"parent": 15
+		}, 
+		{
+			"name": "Breast_Sub",
+			"parent": 4
+		}, 
+		{
+			"name": "Spine_Sub",
+			"parent": 2
+		}, 
+		{
+			"name": "Bip01 L Thigh",
+			"parent": 1
+		}, 
+		{
+			"name": "Bip01 L Calf",
+			"parent": 24
+		}, 
+		{
+			"name": "Bip01 L Foot",
+			"parent": 25
+		}, 
+		{
+			"name": "Bip01 L Toe0",
+			"parent": 26
+		}, 
+		{
+			"name": "L Hip_Sub",
+			"parent": 24
+		}, 
+		{
+			"name": "L Calf_Sub",
+			"parent": 24
+		}, 
+		{
+			"name": "Bip01 R Thigh",
+			"parent": 1
+		}, 
+		{
+			"name": "Bip01 R Calf",
+			"parent": 30
+		}, 
+		{
+			"name": "Bip01 R Foot",
+			"parent": 31
+		}, 
+		{
+			"name": "Bip01 R Toe0",
+			"parent": 32
+		}, 
+		{
+			"name": "R Hip_Sub",
+			"parent": 30
+		}, 
+		{
+			"name": "R Calf_Sub",
+			"parent": 30
+		}, 
+		{
+			"name": "Skult_Front",
+			"parent": 1
+		}, 
+		{
+			"name": "Skult_Back",
+			"parent": 1
+		}, 
+		{
+			"name": "CSO_Defuse",
+			"parent": 2
+		}, 
+		{
+			"name": "Cylinder05",
+			"parent": 7
+		}
+	],
+	"skins": 1,
+	"t_model": true,
+	"textures": [
+		{
+			"flags": 64,
+			"height": 509,
+			"name": "√÷¡ˆ¿±Copyright(C)[2008]NEXON&Valve_Corp_AllRightsReserved.bmp",
+			"width": 508
+		}, 
+		{
+			"flags": 0,
+			"height": 126,
+			"name": "CSO_Defuse.BMP",
+			"width": 128
+		}, 
+		{
+			"flags": 0,
+			"height": 250,
+			"name": "CT_CAP_Female.bmp",
+			"width": 252
+		}
+	],
+	"version": 10
+}

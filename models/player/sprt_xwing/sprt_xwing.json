@@ -1,1 +1,45 @@
-{"seq_groups": 1, "hash": "71c2a827b07bc09018bf96c3f4859dcd", "tri_count": "1750"}
+{
+	"attachments": [],
+	"bodies": [
+		{
+			"models": [
+				{
+					"name": "sprt_xwing.mdl",
+					"polys": 1750,
+					"verts": 915
+				}
+			],
+			"name": "body"
+		}
+	],
+	"controllers": [],
+	"events": [],
+	"id": 1414743113,
+	"md5": "71c2a827b07bc09018bf96c3f4859dcd",
+	"name": "C:\\Users\\Logen\\Desktop\\sprt_xwing.mdl",
+	"seq_groups": "1",
+	"sequences": [
+		{
+			"fps": 69.000000,
+			"frames": 1,
+			"name": "kHED"
+		}
+	],
+	"skeleton": [
+		{
+			"name": "kHED",
+			"parent": -1
+		}
+	],
+	"skins": 1,
+	"t_model": false,
+	"textures": [
+		{
+			"flags": 0,
+			"height": 512,
+			"name": "xwing_uv.bmp",
+			"width": 512
+		}
+	],
+	"version": 10
+}
