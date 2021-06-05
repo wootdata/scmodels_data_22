@@ -521,8 +521,8 @@
 		}
 	],
 	"id": 1414743113,
-	"md5": "0389137756e4f6978938ab92517cf9b7",
-	"name": "KZ_Bowsette.mdl",
+	"md5": "7f9b45f3c9c0aca63f1e002b3664f652",
+	"name": "KZ_Megumin.mdl",
 	"seq_groups": "1",
 	"sequences": [
 		{
@@ -1491,7 +1491,7 @@
 			"name": "look_idle_14"
 		}
 	],
-	"size": 9990376,
+	"size": 9995488,
 	"skeleton": [
 		{
 			"name": "Bip01",
@@ -1686,24 +1686,6 @@
 	"t_model": false,
 	"textures": [
 		{
-			"flags": 1,
-			"height": 512,
-			"name": "LoshBowsetteBack.bmp",
-			"width": 512
-		}, 
-		{
-			"flags": 1,
-			"height": 512,
-			"name": "LoshBowsetteCrown.bmp",
-			"width": 512
-		}, 
-		{
-			"flags": 1,
-			"height": 512,
-			"name": "LoshBowsetteTail.bmp",
-			"width": 512
-		}, 
-		{
 			"flags": 64,
 			"height": 32,
 			"name": "null.bmp",
@@ -1764,9 +1746,21 @@
 			"width": 512
 		}, 
 		{
+			"flags": 4,
+			"height": 512,
+			"name": "LoshBowsetteBack.bmp",
+			"width": 512
+		}, 
+		{
 			"flags": 0,
 			"height": 512,
 			"name": "LoshBowsetteChoker.bmp",
+			"width": 512
+		}, 
+		{
+			"flags": 4,
+			"height": 512,
+			"name": "LoshBowsetteCrown.bmp",
 			"width": 512
 		}, 
 		{
@@ -1797,6 +1791,12 @@
 			"flags": 0,
 			"height": 512,
 			"name": "LoshBowsetteStkg.bmp",
+			"width": 512
+		}, 
+		{
+			"flags": 4,
+			"height": 512,
+			"name": "LoshBowsetteTail.bmp",
 			"width": 512
 		}, 
 		{
