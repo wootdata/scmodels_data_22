@@ -25,9 +25,9 @@
 		{
 			"models": [
 				{
-					"name": "touhou_cirno_head",
+					"name": "head",
 					"polys": 2906,
-					"verts": 1728
+					"verts": 1730
 				}
 			],
 			"name": "body"
@@ -35,7 +35,7 @@
 		{
 			"models": [
 				{
-					"name": "touhou_cirno_dress",
+					"name": "dress",
 					"polys": 1841,
 					"verts": 1056
 				}
@@ -45,7 +45,7 @@
 		{
 			"models": [
 				{
-					"name": "touhou_cirno_dress2",
+					"name": "dress2",
 					"polys": 1532,
 					"verts": 766
 				}
@@ -55,7 +55,7 @@
 		{
 			"models": [
 				{
-					"name": "touhou_cirno_arm1",
+					"name": "arm1",
 					"polys": 2210,
 					"verts": 1115
 				}
@@ -65,7 +65,7 @@
 		{
 			"models": [
 				{
-					"name": "touhou_cirno_arm2",
+					"name": "arm2",
 					"polys": 2210,
 					"verts": 1115
 				}
@@ -75,7 +75,7 @@
 		{
 			"models": [
 				{
-					"name": "touhou_cirno_body1",
+					"name": "body1",
 					"polys": 1191,
 					"verts": 651
 				}
@@ -85,9 +85,9 @@
 		{
 			"models": [
 				{
-					"name": "touhou_cirno_body2",
-					"polys": 2809,
-					"verts": 1461
+					"name": "body2",
+					"polys": 3562,
+					"verts": 1839
 				}
 			],
 			"name": "body"
@@ -95,7 +95,7 @@
 		{
 			"models": [
 				{
-					"name": "touhou_cirno_ct1",
+					"name": "ct1",
 					"polys": 2016,
 					"verts": 1010
 				}
@@ -105,7 +105,7 @@
 		{
 			"models": [
 				{
-					"name": "touhou_cirno_ct2",
+					"name": "ct2",
 					"polys": 2668,
 					"verts": 1340
 				}
@@ -115,7 +115,7 @@
 		{
 			"models": [
 				{
-					"name": "touhou_cirno_ct3",
+					"name": "ct3",
 					"polys": 714,
 					"verts": 374
 				}
@@ -125,7 +125,7 @@
 		{
 			"models": [
 				{
-					"name": "touhou_cirno_ct4",
+					"name": "ct4",
 					"polys": 1944,
 					"verts": 986
 				}
@@ -135,9 +135,9 @@
 		{
 			"models": [
 				{
-					"name": "touhou_cirno_ct5",
+					"name": "ct5",
 					"polys": 2940,
-					"verts": 1503
+					"verts": 1502
 				}
 			],
 			"name": "body"
@@ -145,7 +145,7 @@
 		{
 			"models": [
 				{
-					"name": "touhou_cirno_head1",
+					"name": "head1",
 					"polys": 1088,
 					"verts": 769
 				}
@@ -155,7 +155,7 @@
 		{
 			"models": [
 				{
-					"name": "touhou_cirno_head2",
+					"name": "head2",
 					"polys": 677,
 					"verts": 496
 				}
@@ -165,7 +165,7 @@
 		{
 			"models": [
 				{
-					"name": "touhou_cirno_head3",
+					"name": "head3",
 					"polys": 3398,
 					"verts": 1756
 				}
@@ -175,9 +175,9 @@
 		{
 			"models": [
 				{
-					"name": "touhou_cirno_wing",
+					"name": "wing",
 					"polys": 1288,
-					"verts": 662
+					"verts": 663
 				}
 			],
 			"name": "body"
@@ -326,14 +326,14 @@
 		{
 			"event": 5021,
 			"frame": 0,
-			"options": "42",
+			"options": "20",
 			"sequence": 125,
 			"type": 0
 		}, 
 		{
 			"event": 5021,
 			"frame": 0,
-			"options": "42",
+			"options": "20",
 			"sequence": 128,
 			"type": 0
 		}, 
@@ -451,7 +451,7 @@
 		}
 	],
 	"id": 1414743113,
-	"md5": "eae2a6d8530ceebeef0d75649dbf8a7e",
+	"md5": "2986b4b14d37c106e7c021e2ee3a3677",
 	"name": "touhou_cirno.mdl",
 	"seq_groups": "1",
 	"sequences": [
@@ -1411,7 +1411,7 @@
 			"name": "action_wave"
 		}
 	],
-	"size": 2023168,
+	"size": 2024224,
 	"skeleton": [
 		{
 			"name": "Bip01",
