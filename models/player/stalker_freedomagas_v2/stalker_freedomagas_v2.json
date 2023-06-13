@@ -1,22 +1,22 @@
 {
 	"attachments": [
 		{
-			"bone": 17,
+			"bone": 25,
+			"name": "",
+			"type": 0
+		}, 
+		{
+			"bone": 25,
+			"name": "",
+			"type": 0
+		}, 
+		{
+			"bone": 25,
 			"name": "",
 			"type": 0
 		}, 
 		{
 			"bone": 17,
-			"name": "",
-			"type": 0
-		}, 
-		{
-			"bone": 17,
-			"name": "",
-			"type": 0
-		}, 
-		{
-			"bone": 21,
 			"name": "",
 			"type": 0
 		}
@@ -25,212 +25,22 @@
 		{
 			"models": [
 				{
-					"name": "body1",
-					"polys": 3462,
-					"verts": 1740
+					"name": "antigas",
+					"polys": 3918,
+					"verts": 2023
 				}
 			],
-			"name": "body"
+			"name": "studio"
 		}, 
 		{
 			"models": [
 				{
-					"name": "body2",
-					"polys": 3414,
-					"verts": 1742
+					"name": "antigas_rukzak",
+					"polys": 246,
+					"verts": 125
 				}
 			],
-			"name": "body"
-		}, 
-		{
-			"models": [
-				{
-					"name": "body3",
-					"polys": 3411,
-					"verts": 1740
-				}
-			],
-			"name": "body"
-		}, 
-		{
-			"models": [
-				{
-					"name": "face",
-					"polys": 3301,
-					"verts": 1933
-				}
-			],
-			"name": "body"
-		}, 
-		{
-			"models": [
-				{
-					"name": "head1",
-					"polys": 592,
-					"verts": 339
-				}
-			],
-			"name": "body"
-		}, 
-		{
-			"models": [
-				{
-					"name": "hair1",
-					"polys": 973,
-					"verts": 505
-				}
-			],
-			"name": "body"
-		}, 
-		{
-			"models": [
-				{
-					"name": "hair2",
-					"polys": 1087,
-					"verts": 712
-				}
-			],
-			"name": "body"
-		}, 
-		{
-			"models": [
-				{
-					"name": "hair3",
-					"polys": 1076,
-					"verts": 707
-				}
-			],
-			"name": "body"
-		}, 
-		{
-			"models": [
-				{
-					"name": "hair4",
-					"polys": 3800,
-					"verts": 1929
-				}
-			],
-			"name": "body"
-		}, 
-		{
-			"models": [
-				{
-					"name": "cab",
-					"polys": 2672,
-					"verts": 1417
-				}
-			],
-			"name": "body"
-		}, 
-		{
-			"models": [
-				{
-					"name": "up",
-					"polys": 1848,
-					"verts": 972
-				}
-			],
-			"name": "body"
-		}, 
-		{
-			"models": [
-				{
-					"name": "down",
-					"polys": 2586,
-					"verts": 1356
-				}
-			],
-			"name": "body"
-		}, 
-		{
-			"models": [
-				{
-					"name": "down1",
-					"polys": 2586,
-					"verts": 1356
-				}
-			],
-			"name": "body"
-		}, 
-		{
-			"models": [
-				{
-					"name": "1",
-					"polys": 2780,
-					"verts": 1414
-				}
-			],
-			"name": "body"
-		}, 
-		{
-			"models": [
-				{
-					"name": "2",
-					"polys": 2730,
-					"verts": 1397
-				}
-			],
-			"name": "body"
-		}, 
-		{
-			"models": [
-				{
-					"name": "d1",
-					"polys": 2101,
-					"verts": 1211
-				}
-			],
-			"name": "body"
-		}, 
-		{
-			"models": [
-				{
-					"name": "d2",
-					"polys": 40,
-					"verts": 32
-				}
-			],
-			"name": "body"
-		}, 
-		{
-			"models": [
-				{
-					"name": "d3",
-					"polys": 204,
-					"verts": 128
-				}
-			],
-			"name": "body"
-		}, 
-		{
-			"models": [
-				{
-					"name": "d4",
-					"polys": 1038,
-					"verts": 658
-				}
-			],
-			"name": "body"
-		}, 
-		{
-			"models": [
-				{
-					"name": "d5",
-					"polys": 410,
-					"verts": 262
-				}
-			],
-			"name": "body"
-		}, 
-		{
-			"models": [
-				{
-					"name": "foot",
-					"polys": 788,
-					"verts": 422
-				}
-			],
-			"name": "body"
+			"name": "studio"
 		}
 	],
 	"controllers": [
@@ -501,8 +311,8 @@
 		}
 	],
 	"id": 1414743113,
-	"md5": "7b65d442592a6931016b90c1c679746e",
-	"name": "touhou_yakumo_yukari.mdl",
+	"md5": "4bb627ddab28a94a83520233fb594931",
+	"name": "stalker_Freedomantigas.mdl",
 	"seq_groups": "1",
 	"sequences": [
 		{
@@ -522,13 +332,13 @@
 		}, 
 		{
 			"fps": 40.000000,
-			"frames": 25,
-			"name": "run2"
+			"frames": 37,
+			"name": "run"
 		}, 
 		{
 			"fps": 20.000000,
 			"frames": 17,
-			"name": "walk2handed"
+			"name": "walk"
 		}, 
 		{
 			"fps": 20.000000,
@@ -1447,7 +1257,7 @@
 		}, 
 		{
 			"fps": 18.000000,
-			"frames": 66,
+			"frames": 71,
 			"name": "action_retina"
 		}, 
 		{
@@ -1461,7 +1271,7 @@
 			"name": "action_wave"
 		}
 	],
-	"size": 2145388,
+	"size": 1818456,
 	"skeleton": [
 		{
 			"name": "Bip01",
@@ -1520,36 +1330,76 @@
 			"parent": 12
 		}, 
 		{
-			"name": "Bip01 R Arm",
-			"parent": 12
-		}, 
-		{
-			"name": "Bip01 R Arm1",
-			"parent": 14
-		}, 
-		{
-			"name": "Bip01 R Arm2",
-			"parent": 15
-		}, 
-		{
-			"name": "Bip01 R Hand",
-			"parent": 16
-		}, 
-		{
 			"name": "Bip01 L Arm",
 			"parent": 12
 		}, 
 		{
 			"name": "Bip01 L Arm1",
-			"parent": 18
+			"parent": 14
 		}, 
 		{
 			"name": "Bip01 L Arm2",
-			"parent": 19
+			"parent": 15
 		}, 
 		{
 			"name": "Bip01 L Hand",
+			"parent": 16
+		}, 
+		{
+			"name": "Bip01 L Finger0",
+			"parent": 17
+		}, 
+		{
+			"name": "Bip01 L Finger01",
+			"parent": 18
+		}, 
+		{
+			"name": "Bip01 L Finger1",
+			"parent": 17
+		}, 
+		{
+			"name": "Bip01 L Finger11",
 			"parent": 20
+		}, 
+		{
+			"name": "Bip01 R Arm",
+			"parent": 12
+		}, 
+		{
+			"name": "Bip01 R Arm1",
+			"parent": 22
+		}, 
+		{
+			"name": "Bip01 R Arm2",
+			"parent": 23
+		}, 
+		{
+			"name": "Bip01 R Hand",
+			"parent": 24
+		}, 
+		{
+			"name": "Bip01 R Finger0",
+			"parent": 25
+		}, 
+		{
+			"name": "Bip01 R Finger01",
+			"parent": 26
+		}, 
+		{
+			"name": "Bip01 R Finger1",
+			"parent": 25
+		}, 
+		{
+			"name": "Bip01 R Finger11",
+			"parent": 28
+		}, 
+		{
+			"name": "Bip01 L Toe0",
+			"parent": 4
+		}, 
+		{
+			"name": "Bip01 R Toe0",
+			"parent": 7
 		}
 	],
 	"skins": 1,
@@ -1557,63 +1407,27 @@
 	"textures": [
 		{
 			"flags": 0,
-			"height": 400,
-			"name": "body.bmp",
-			"width": 400
+			"height": 512,
+			"name": "act_head_mask.bmp",
+			"width": 512
 		}, 
 		{
 			"flags": 0,
-			"height": 256,
-			"name": "face.bmp",
-			"width": 256
+			"height": 128,
+			"name": "act_specnaz_glass.bmp",
+			"width": 128
 		}, 
 		{
 			"flags": 0,
-			"height": 100,
-			"name": "eye.bmp",
-			"width": 100
+			"height": 520,
+			"name": "act_stalker.bmp",
+			"width": 520
 		}, 
 		{
 			"flags": 0,
-			"height": 100,
-			"name": "hair2.bmp",
-			"width": 100
-		}, 
-		{
-			"flags": 0,
-			"height": 100,
-			"name": "hair1.bmp",
-			"width": 100
-		}, 
-		{
-			"flags": 0,
-			"height": 100,
-			"name": "red.bmp",
-			"width": 100
-		}, 
-		{
-			"flags": 0,
-			"height": 256,
-			"name": "w.bmp",
-			"width": 256
-		}, 
-		{
-			"flags": 0,
-			"height": 200,
-			"name": "race.bmp",
-			"width": 200
-		}, 
-		{
-			"flags": 0,
-			"height": 200,
-			"name": "1.bmp",
-			"width": 200
-		}, 
-		{
-			"flags": 0,
-			"height": 200,
-			"name": "2.bmp",
-			"width": 200
+			"height": 512,
+			"name": "act_ryukzak.bmp",
+			"width": 512
 		}
 	],
 	"version": 10
