@@ -1,0 +1,1058 @@
+{
+	"attachments": [],
+	"bodies": [
+		{
+			"models": [
+				{
+					"name": "Chub_Template_Biped1",
+					"polys": 340,
+					"verts": 172
+				}
+			],
+			"name": "studio"
+		}
+	],
+	"controllers": [],
+	"events": [],
+	"id": 1414743113,
+	"md5": "aa0be0b29ea804c27b540a9f02acb57c",
+	"name": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Sven Co-op\\svencoo\"",
+	"seq_groups": "1",
+	"sequences": [
+		{
+			"fps": 16.000000,
+			"frames": 31,
+			"name": "idle"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 31,
+			"name": "idle2"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 31,
+			"name": "idle3"
+		}, 
+		{
+			"fps": 60.000000,
+			"frames": 19,
+			"name": "hop_1"
+		}, 
+		{
+			"fps": 15.000000,
+			"frames": 19,
+			"name": "hop_1"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 31,
+			"name": "idle3"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 19,
+			"name": "hop_1_low"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 31,
+			"name": "idle_low"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 23,
+			"name": "flinch1"
+		}, 
+		{
+			"fps": 40.000000,
+			"frames": 19,
+			"name": "hop_2"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 31,
+			"name": "swim"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 31,
+			"name": "swim"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 41,
+			"name": "die3"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 41,
+			"name": "die3"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 41,
+			"name": "die3"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 41,
+			"name": "die3"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 41,
+			"name": "die3"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 41,
+			"name": "die3"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 41,
+			"name": "die3"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 11,
+			"name": "flinch2"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 31,
+			"name": "idle"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 31,
+			"name": "idle3"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 11,
+			"name": "flinch2_low"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 31,
+			"name": "idle_low"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 31,
+			"name": "idle3_low"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 11,
+			"name": "flinch2"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 31,
+			"name": "idle"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 31,
+			"name": "idle3"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 11,
+			"name": "flinch2_low"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 31,
+			"name": "idle_low"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 31,
+			"name": "idle3_low"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 11,
+			"name": "flinch2"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 31,
+			"name": "idle"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 11,
+			"name": "flinch2"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 31,
+			"name": "idle"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 31,
+			"name": "idle3"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 11,
+			"name": "flinch2_low"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 31,
+			"name": "idle_low"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 11,
+			"name": "flinch2_low"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 31,
+			"name": "idle_low"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 31,
+			"name": "idle3_low"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 11,
+			"name": "flinch2"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 31,
+			"name": "idle"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 31,
+			"name": "idle3"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 11,
+			"name": "flinch2_low"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 31,
+			"name": "idle_low"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 31,
+			"name": "idle3_low"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 11,
+			"name": "flinch2"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 31,
+			"name": "idle"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 31,
+			"name": "idle3"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 31,
+			"name": "idle2"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 11,
+			"name": "flinch2_low"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 31,
+			"name": "idle_low"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 31,
+			"name": "idle3_low"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 31,
+			"name": "idle2_low"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 11,
+			"name": "flinch2"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 31,
+			"name": "idle"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 31,
+			"name": "idle3"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 31,
+			"name": "idle2"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 11,
+			"name": "flinch2_low"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 31,
+			"name": "idle_low"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 31,
+			"name": "idle3_low"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 31,
+			"name": "idle2_low"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 11,
+			"name": "flinch2"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 31,
+			"name": "idle"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 31,
+			"name": "idle3"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 31,
+			"name": "idle2"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 11,
+			"name": "flinch2_low"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 31,
+			"name": "idle_low"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 31,
+			"name": "idle3_low"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 31,
+			"name": "idle2_low"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 11,
+			"name": "flinch2"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 31,
+			"name": "idle"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 31,
+			"name": "idle3"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 11,
+			"name": "flinch2_low"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 31,
+			"name": "idle_low"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 31,
+			"name": "idle3_low"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 11,
+			"name": "flinch2"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 31,
+			"name": "idle"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 31,
+			"name": "idle3"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 31,
+			"name": "idle2"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 11,
+			"name": "flinch2_low"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 31,
+			"name": "idle_low"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 31,
+			"name": "idle3_low"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 31,
+			"name": "idle2_low"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 11,
+			"name": "flinch2"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 31,
+			"name": "idle"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 31,
+			"name": "idle3"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 31,
+			"name": "idle2"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 11,
+			"name": "flinch2_low"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 31,
+			"name": "idle_low"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 31,
+			"name": "idle3_low"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 31,
+			"name": "idle2_low"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 11,
+			"name": "flinch2"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 31,
+			"name": "idle"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 31,
+			"name": "idle3"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 11,
+			"name": "flinch2_low"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 31,
+			"name": "idle_low"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 31,
+			"name": "idle3_low"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 11,
+			"name": "flinch2"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 31,
+			"name": "idle"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 31,
+			"name": "idle3"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 11,
+			"name": "flinch2_low"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 31,
+			"name": "idle_low"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 31,
+			"name": "idle3_low"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 11,
+			"name": "flinch2"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 31,
+			"name": "idle"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 31,
+			"name": "idle3"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 11,
+			"name": "flinch2_low"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 31,
+			"name": "idle_low"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 31,
+			"name": "idle3_low"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 11,
+			"name": "flinch2"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 31,
+			"name": "idle"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 31,
+			"name": "idle3"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 31,
+			"name": "idle"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 31,
+			"name": "idle3"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 31,
+			"name": "idle2"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 11,
+			"name": "flinch2_low"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 31,
+			"name": "idle_low"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 31,
+			"name": "idle3_low"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 31,
+			"name": "idle_low"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 31,
+			"name": "idle3_low"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 31,
+			"name": "idle2_low"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 11,
+			"name": "flinch2"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 31,
+			"name": "idle"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 31,
+			"name": "idle3"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 11,
+			"name": "flinch2_low"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 31,
+			"name": "idle_low"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 31,
+			"name": "idle3_low"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 11,
+			"name": "flinch2"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 11,
+			"name": "flinch2"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 31,
+			"name": "idle"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 31,
+			"name": "idle3"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 31,
+			"name": "idle3"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 31,
+			"name": "idle3"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 31,
+			"name": "idle2"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 31,
+			"name": "idle2"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 11,
+			"name": "flinch2_low"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 11,
+			"name": "flinch2_low"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 31,
+			"name": "idle_low"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 31,
+			"name": "idle3_low"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 31,
+			"name": "idle3_low"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 31,
+			"name": "idle3_low"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 31,
+			"name": "idle2_low"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 31,
+			"name": "idle2_low"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 11,
+			"name": "flinch2"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 31,
+			"name": "idle"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 31,
+			"name": "idle3"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 31,
+			"name": "idle3"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 31,
+			"name": "idle2"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 31,
+			"name": "idle2"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 11,
+			"name": "flinch2_low"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 31,
+			"name": "idle_low"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 31,
+			"name": "idle3_low"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 31,
+			"name": "idle3_low"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 31,
+			"name": "idle2_low"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 31,
+			"name": "idle2_low"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 11,
+			"name": "flinch2"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 31,
+			"name": "idle"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 31,
+			"name": "idle3"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 31,
+			"name": "idle"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 31,
+			"name": "idle3"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 31,
+			"name": "idle2"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 11,
+			"name": "flinch2_low"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 31,
+			"name": "idle_low"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 31,
+			"name": "idle3_low"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 31,
+			"name": "idle_low"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 31,
+			"name": "idle3_low"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 31,
+			"name": "idle2_low"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 11,
+			"name": "flinch2"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 31,
+			"name": "idle"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 31,
+			"name": "idle3"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 31,
+			"name": "idle2"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 11,
+			"name": "flinch2_low"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 31,
+			"name": "idle_low"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 31,
+			"name": "idle3_low"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 31,
+			"name": "idle2_low"
+		}
+	],
+	"size": 533236,
+	"skeleton": [
+		{
+			"name": "Bone10",
+			"parent": -1
+		}, 
+		{
+			"name": "MDLDEC_Bone1",
+			"parent": 0
+		}, 
+		{
+			"name": "MDLDEC_Bone2",
+			"parent": 1
+		}, 
+		{
+			"name": "MDLDEC_Bone3",
+			"parent": 2
+		}, 
+		{
+			"name": "MDLDEC_Bone4",
+			"parent": 3
+		}, 
+		{
+			"name": "MDLDEC_Bone5",
+			"parent": 4
+		}, 
+		{
+			"name": "MDLDEC_Bone6",
+			"parent": 1
+		}, 
+		{
+			"name": "MDLDEC_Bone7",
+			"parent": 6
+		}, 
+		{
+			"name": "MDLDEC_Bone8",
+			"parent": 7
+		}, 
+		{
+			"name": "MDLDEC_Bone9",
+			"parent": 8
+		}, 
+		{
+			"name": "MDLDEC_Bone10",
+			"parent": 1
+		}, 
+		{
+			"name": "MDLDEC_Bone11",
+			"parent": 10
+		}, 
+		{
+			"name": "MDLDEC_Bone12",
+			"parent": 11
+		}, 
+		{
+			"name": "MDLDEC_Bone13",
+			"parent": 12
+		}, 
+		{
+			"name": "MDLDEC_Bone14",
+			"parent": 12
+		}, 
+		{
+			"name": "MDLDEC_Bone15",
+			"parent": 14
+		}, 
+		{
+			"name": "MDLDEC_Bone16",
+			"parent": 15
+		}, 
+		{
+			"name": "MDLDEC_Bone17",
+			"parent": 16
+		}, 
+		{
+			"name": "Bip01 L Hand",
+			"parent": 17
+		}, 
+		{
+			"name": "MDLDEC_Bone19",
+			"parent": 12
+		}, 
+		{
+			"name": "MDLDEC_Bone20",
+			"parent": 19
+		}, 
+		{
+			"name": "MDLDEC_Bone21",
+			"parent": 20
+		}, 
+		{
+			"name": "MDLDEC_Bone22",
+			"parent": 21
+		}, 
+		{
+			"name": "Bip01 R Hand",
+			"parent": 22
+		}, 
+		{
+			"name": "Bip01 Spine",
+			"parent": 11
+		}, 
+		{
+			"name": "MDLDEC_Bone25",
+			"parent": 11
+		}, 
+		{
+			"name": "MDLDEC_Bone26",
+			"parent": 25
+		}, 
+		{
+			"name": "Bip01 Spine3",
+			"parent": 26
+		}, 
+		{
+			"name": "Bip01 Head",
+			"parent": 10
+		}, 
+		{
+			"name": "Bip01 Spine1",
+			"parent": 10
+		}, 
+		{
+			"name": "Bip01 Spine2",
+			"parent": 10
+		}
+	],
+	"skins": 1,
+	"t_model": false,
+	"textures": [
+		{
+			"flags": 0,
+			"height": 94,
+			"name": "CHB_Side1.bmp",
+			"width": 116
+		}, 
+		{
+			"flags": 0,
+			"height": 53,
+			"name": "CHB_Eye1.bmp",
+			"width": 52
+		}, 
+		{
+			"flags": 0,
+			"height": 1,
+			"name": "CHB_Tounge1.bmp",
+			"width": 4
+		}
+	],
+	"version": 10
+}
