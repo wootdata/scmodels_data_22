@@ -43,6 +43,7 @@
 			"name": "heads"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 21,
@@ -633,7 +634,11 @@
 	],
 	"id": 1414743113,
 	"md5": "65280d2d3a4c49a3d189fda32b1a5ee3",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "F:\\Games\\steam\\steamapps\\common\\Sven Co-op\\svencoop_downloads\\mo",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

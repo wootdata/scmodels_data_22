@@ -28,6 +28,7 @@
 			"name": "aki"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -298,7 +299,11 @@
 	],
 	"id": 1414743113,
 	"md5": "e6f433a226a608b315d111a09024b337",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Kit.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

@@ -43,6 +43,7 @@
 			"name": "bronstekloshchitkashlema"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -313,7 +314,11 @@
 	],
 	"id": 1414743113,
 	"md5": "cec7c266f638c6da1b81c7a9a6ac71cd",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "para_alpha3.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

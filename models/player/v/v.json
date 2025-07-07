@@ -103,6 +103,7 @@
 			"name": "studio"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -373,7 +374,11 @@
 	],
 	"id": 1414743113,
 	"md5": "195162c9086cee4193ae347a35782ecf",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "sas.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

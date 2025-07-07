@@ -12,12 +12,17 @@
 			"name": "OBAMA"
 		}
 	],
+	"colorable": false,
 	"controllers": [],
 	"date": 1576078636,
 	"events": [],
 	"id": 1414743113,
 	"md5": "f84a4be4a4fab82e807897d7726f7094",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "obamium.mdl",
+	"preview": false,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

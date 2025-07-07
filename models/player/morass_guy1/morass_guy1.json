@@ -43,6 +43,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -313,7 +314,11 @@
 	],
 	"id": 1414743113,
 	"md5": "240e2133e69b39f0b11dbb8f0ec23068",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "C:\\Pelit\\Modelikansio\\Morass\\Playermodelit\\morass_guy1\\morass_gu",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

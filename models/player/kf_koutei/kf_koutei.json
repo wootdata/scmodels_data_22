@@ -133,6 +133,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -782,7 +783,11 @@
 	],
 	"id": 1414743113,
 	"md5": "d72a53de70612af671824a12f56a74ac",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "GFL_AK12.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

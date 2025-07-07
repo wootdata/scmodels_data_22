@@ -343,6 +343,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -966,7 +967,11 @@
 	],
 	"id": 1414743113,
 	"md5": "f39c52471d28ca689ce98621aa8f3b41",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "hk416_nc.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

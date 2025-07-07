@@ -12,12 +12,17 @@
 			"name": "studio"
 		}
 	],
+	"colorable": false,
 	"controllers": [],
 	"date": 1698120788,
 	"events": [],
 	"id": 1414743113,
 	"md5": "aa0be0b29ea804c27b540a9f02acb57c",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Sven Co-op\\svencoo\"",
+	"preview": false,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

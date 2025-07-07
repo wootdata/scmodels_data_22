@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 2,
@@ -303,7 +304,11 @@
 	],
 	"id": 1414743113,
 	"md5": "d9663b2b722d800812b4915bc7443291",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "OP4_Tower2/OP4_Tower2.mdl",
+	"preview": false,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

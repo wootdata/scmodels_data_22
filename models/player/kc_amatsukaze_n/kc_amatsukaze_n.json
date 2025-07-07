@@ -168,6 +168,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -502,7 +503,11 @@
 	],
 	"id": 1414743113,
 	"md5": "bac514f5fa2867405256178a916b3616",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "KC_amatsukaze.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

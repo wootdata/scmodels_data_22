@@ -53,6 +53,7 @@
 			"name": "SkirtNormalFlip"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -309,7 +310,11 @@
 	],
 	"id": 1414743113,
 	"md5": "c0061f976f9241678e2da2f253b89d19",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Illyasviel.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

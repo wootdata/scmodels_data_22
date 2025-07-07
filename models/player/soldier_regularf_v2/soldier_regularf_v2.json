@@ -23,6 +23,7 @@
 			"name": "studio"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 13,
@@ -285,7 +286,11 @@
 	],
 	"id": 1414743113,
 	"md5": "be873530683aa83f0b24b8c23f710ded",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "soldier_regularf.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

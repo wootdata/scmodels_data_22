@@ -113,6 +113,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -391,7 +392,11 @@
 	],
 	"id": 1414743113,
 	"md5": "11ccdd8bfc7c52fba1dc3ed88da01e28",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "backbeard.mdl",
+	"preview": true,
+	"readme": true,
 	"seq_groups": "1",
 	"sequences": [
 		{

@@ -92,6 +92,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -419,7 +420,11 @@
 	],
 	"id": 1414743113,
 	"md5": "215a61c4e90035b7d88011211916acee",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "km_karenkujo_dark.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

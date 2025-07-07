@@ -28,6 +28,7 @@
 			"name": "studio"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 8,
@@ -298,7 +299,11 @@
 	],
 	"id": 1414743113,
 	"md5": "65ebe4364ad83aca15b7c3a08c43730b",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "cloke.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

@@ -208,6 +208,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -542,7 +543,11 @@
 	],
 	"id": 1414743113,
 	"md5": "e8aa90cc25a03b973b06a0b9c62347b0",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "shimakaze_1.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

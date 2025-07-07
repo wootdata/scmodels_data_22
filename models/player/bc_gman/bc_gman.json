@@ -12,12 +12,17 @@
 			"name": "body"
 		}
 	],
+	"colorable": true,
 	"controllers": [],
 	"date": 1054872060,
 	"events": [],
 	"id": 1414743113,
 	"md5": "376e6c875177a7c6b48c4df5cf9af36e",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "C:\\blackhawk\\Models\\gman\\gman.mdl",
+	"preview": true,
+	"readme": true,
 	"seq_groups": "1",
 	"sequences": [
 		{

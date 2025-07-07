@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -303,7 +304,11 @@
 	],
 	"id": 1414743113,
 	"md5": "1c1e76983f987c9aeb89fa9eb3a26086",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "CyborgNinjanomask.mdl",
+	"preview": true,
+	"readme": true,
 	"seq_groups": "1",
 	"sequences": [
 		{

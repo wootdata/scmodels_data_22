@@ -48,6 +48,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 37,
@@ -326,7 +327,11 @@
 	],
 	"id": 1414743113,
 	"md5": "dfda1061ae0a1af3738f1ecb51ecc281",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "hevbarney.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

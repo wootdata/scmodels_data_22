@@ -43,6 +43,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -321,7 +322,11 @@
 	],
 	"id": 1414743113,
 	"md5": "bd887c9dc8e00e3b39b201ed56fedaf0",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Mgs1_Guard.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

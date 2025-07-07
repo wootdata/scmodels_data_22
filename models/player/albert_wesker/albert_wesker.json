@@ -68,6 +68,7 @@
 			"name": "Body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 6,
@@ -338,7 +339,11 @@
 	],
 	"id": 1414743113,
 	"md5": "5e01882e7fd2c21836284cf53c36e958",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Albert Wesker.mdl",
+	"preview": false,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

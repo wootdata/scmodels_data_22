@@ -93,6 +93,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -371,7 +372,11 @@
 	],
 	"id": 1414743113,
 	"md5": "7b1bc5fe04752a46f63035c9d0bd4895",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Immortal_Skeleton.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

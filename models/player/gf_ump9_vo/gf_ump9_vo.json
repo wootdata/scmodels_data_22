@@ -133,6 +133,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -805,7 +806,11 @@
 	],
 	"id": 1414743113,
 	"md5": "b0d5edd33c3f601a6bde078f9cd6250f",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "GF_UMP9.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

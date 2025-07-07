@@ -48,6 +48,7 @@
 			"name": "studio"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -318,7 +319,11 @@
 	],
 	"id": 1414743113,
 	"md5": "ae1d436b500aced5cfd2d0afa5061ada",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "BF2_USMC_SPOp.mdl",
+	"preview": false,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

@@ -63,6 +63,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -333,7 +334,11 @@
 	],
 	"id": 1414743113,
 	"md5": "eedf3433b8c1821ed0f1d86eac2d3984",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "yuuri_GLT.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

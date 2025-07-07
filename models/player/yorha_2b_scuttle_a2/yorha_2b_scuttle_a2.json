@@ -173,6 +173,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -443,7 +444,11 @@
 	],
 	"id": 1414743113,
 	"md5": "37cd94e6ed6f60527f9803783a6e496c",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "YoRHa_2B_scuttle_a1.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

@@ -103,6 +103,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 85,
@@ -332,7 +333,11 @@
 	],
 	"id": 1414743113,
 	"md5": "624dacb52b08827db29cc382c1c58a55",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "WatanabeYou.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

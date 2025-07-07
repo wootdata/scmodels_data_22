@@ -28,6 +28,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 13,
@@ -306,7 +307,11 @@
 	],
 	"id": 1414743113,
 	"md5": "170a33b68d4a8d2a15825b661ea47c0c",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "zorak.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

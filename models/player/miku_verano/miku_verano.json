@@ -343,6 +343,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -1106,7 +1107,11 @@
 	],
 	"id": 1414743113,
 	"md5": "862a1d19a79d8e39c6375d3127ab315a",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Miku_Verano.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

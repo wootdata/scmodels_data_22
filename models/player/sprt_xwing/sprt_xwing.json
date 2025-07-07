@@ -12,12 +12,17 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [],
 	"date": 1381984657,
 	"events": [],
 	"id": 1414743113,
 	"md5": "71c2a827b07bc09018bf96c3f4859dcd",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "C:\\Users\\Logen\\Desktop\\sprt_xwing.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

@@ -28,6 +28,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 14,
@@ -256,7 +257,11 @@
 	],
 	"id": 1414743113,
 	"md5": "798a4bb9e8ccfb9ca2ed070c464d03d2",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "trinityrage2.mdl",
+	"preview": true,
+	"readme": true,
 	"seq_groups": "1",
 	"sequences": [
 		{

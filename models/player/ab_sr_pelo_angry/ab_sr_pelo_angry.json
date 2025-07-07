@@ -78,6 +78,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -453,7 +454,11 @@
 	],
 	"id": 1414743113,
 	"md5": "cb153bfb62fe1739c1a04fc0db1e217d",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "E:\\sven cop mods\\sven cop skins\\models para terminar y arreglar\\T",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

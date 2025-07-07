@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -71,7 +72,11 @@
 	"events": [],
 	"id": 1414743113,
 	"md5": "143d84eebaf8fbccd6e512a5b87ffff4",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Mikuschool.mdl",
+	"preview": true,
+	"readme": true,
 	"seq_groups": "1",
 	"sequences": [
 		{

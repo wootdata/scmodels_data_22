@@ -73,6 +73,7 @@
 			"name": "eye_chrome"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -161,7 +162,11 @@
 	],
 	"id": 1414743113,
 	"md5": "132610269fdc7808b9270e8cdb7f5908",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "BMS_Vortigaunt.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

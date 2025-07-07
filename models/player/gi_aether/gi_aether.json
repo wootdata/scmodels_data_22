@@ -103,6 +103,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -367,7 +368,11 @@
 	],
 	"id": 1414743113,
 	"md5": "2bbe06b62de6fa49543947b0e1e8d696",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "GI_Kong.mdl",
+	"preview": false,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{
