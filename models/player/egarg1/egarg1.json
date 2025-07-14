@@ -175,6 +175,7 @@
 	"md5": "9c984bd0bf55e4a389b05f8eebe1198a",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "valve/models/player/gtpr/gtpr.mdl",
 	"preview": true,
 	"readme": false,

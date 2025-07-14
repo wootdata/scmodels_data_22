@@ -306,6 +306,7 @@
 	"md5": "d95c8e93913d022f7611952660d2d1a2",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 6,
 	"name": "torch_bloody.mdl",
 	"preview": true,
 	"readme": true,
