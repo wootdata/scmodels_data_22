@@ -63,7 +63,7 @@
 			"type": 8
 		}
 	],
-	"date": 1579695602,
+	"date": 1780811531,
 	"events": [
 		{
 			"event": 2001,
@@ -175,6 +175,7 @@
 	"md5": "7a8865088541cc8bfcc0c554ce7f4bea",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "penguin.mdl",
 	"preview": true,
 	"readme": true,

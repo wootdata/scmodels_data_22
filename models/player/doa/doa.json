@@ -63,7 +63,7 @@
 			"type": 8
 		}
 	],
-	"date": 1185447384,
+	"date": 1780811530,
 	"events": [
 		{
 			"event": 2001,
@@ -175,6 +175,7 @@
 	"md5": "d8880c744342a7f2f8f3ef787d39a2e7",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "drjmaul.mdl",
 	"preview": true,
 	"readme": true,

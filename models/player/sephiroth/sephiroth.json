@@ -68,7 +68,7 @@
 			"type": 8
 		}
 	],
-	"date": 1121424748,
+	"date": 1780811531,
 	"events": [
 		{
 			"event": 2001,
@@ -250,6 +250,7 @@
 	"md5": "52ecef3a60a5e99cda8a4d58798d520d",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "sephiroth.mdl",
 	"preview": false,
 	"readme": false,

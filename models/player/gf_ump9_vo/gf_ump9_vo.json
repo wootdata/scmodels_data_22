@@ -192,7 +192,7 @@
 			"type": 8
 		}
 	],
-	"date": 1699546144,
+	"date": 1780811530,
 	"events": [
 		{
 			"event": 5004,
@@ -808,6 +808,7 @@
 	"md5": "b0d5edd33c3f601a6bde078f9cd6250f",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 6,
 	"name": "GF_UMP9.mdl",
 	"preview": true,
 	"readme": false,

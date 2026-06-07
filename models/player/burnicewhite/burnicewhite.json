@@ -1,22 +1,17 @@
 {
 	"attachments": [
 		{
-			"bone": 16,
+			"bone": 10,
 			"name": "",
 			"type": 0
 		}, 
 		{
-			"bone": 16,
+			"bone": 10,
 			"name": "",
 			"type": 0
 		}, 
 		{
-			"bone": 16,
-			"name": "",
-			"type": 0
-		}, 
-		{
-			"bone": 14,
+			"bone": 10,
 			"name": "",
 			"type": 0
 		}
@@ -25,120 +20,140 @@
 		{
 			"models": [
 				{
-					"name": "2v",
-					"polys": 3301,
-					"verts": 1807
+					"name": "Burnice1",
+					"polys": 3040,
+					"verts": 1741
 				}
 			],
-			"name": "studio"
+			"name": "body"
 		}, 
 		{
 			"models": [
 				{
-					"name": "3v",
-					"polys": 2731,
-					"verts": 1498
+					"name": "Burnice2",
+					"polys": 2368,
+					"verts": 1208
 				}
 			],
-			"name": "studio"
+			"name": "body"
 		}, 
 		{
 			"models": [
 				{
-					"name": "4v",
-					"polys": 320,
-					"verts": 229
+					"name": "Burnice3",
+					"polys": 2670,
+					"verts": 1459
 				}
 			],
-			"name": "studio"
+			"name": "body"
 		}, 
 		{
 			"models": [
 				{
-					"name": "5v",
-					"polys": 829,
-					"verts": 545
+					"name": "Burnice4",
+					"polys": 3355,
+					"verts": 1878
 				}
 			],
-			"name": "studio"
+			"name": "body"
 		}, 
 		{
 			"models": [
 				{
-					"name": "6v",
-					"polys": 1247,
-					"verts": 762
+					"name": "Burnice5",
+					"polys": 4008,
+					"verts": 2032
 				}
 			],
-			"name": "studio"
+			"name": "body"
 		}, 
 		{
 			"models": [
 				{
-					"name": "7v",
-					"polys": 439,
-					"verts": 267
+					"name": "Burnice6",
+					"polys": 3762,
+					"verts": 2007
 				}
 			],
-			"name": "studio"
+			"name": "body"
 		}, 
 		{
 			"models": [
 				{
-					"name": "8v",
-					"polys": 858,
-					"verts": 459
+					"name": "Burnice7",
+					"polys": 1174,
+					"verts": 336
 				}
 			],
-			"name": "studio"
+			"name": "body"
 		}, 
 		{
 			"models": [
 				{
-					"name": "1v",
-					"polys": 1957,
-					"verts": 1022
+					"name": "Burnice8",
+					"polys": 7546,
+					"verts": 2000
 				}
 			],
-			"name": "studio"
+			"name": "body"
+		}, 
+		{
+			"models": [
+				{
+					"name": "Burnice9",
+					"polys": 4038,
+					"verts": 1206
+				}
+			],
+			"name": "body"
+		}, 
+		{
+			"models": [
+				{
+					"name": "Burnice10",
+					"polys": 5394,
+					"verts": 1511
+				}
+			],
+			"name": "body"
 		}
 	],
 	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
-			"end": 30.000000,
+			"end": 20.000000,
 			"index": 0,
 			"rest": 0,
-			"start": -30.000000,
+			"start": -20.000000,
 			"type": 8
 		}, 
 		{
 			"bone": 3,
-			"end": 30.000000,
+			"end": 20.000000,
 			"index": 1,
 			"rest": 0,
-			"start": -30.000000,
+			"start": -20.000000,
 			"type": 8
 		}, 
 		{
 			"bone": 4,
-			"end": 30.000000,
+			"end": 20.000000,
 			"index": 2,
 			"rest": 0,
-			"start": -30.000000,
+			"start": -20.000000,
 			"type": 8
 		}, 
 		{
 			"bone": 5,
-			"end": 30.000000,
+			"end": 20.000000,
 			"index": 3,
 			"rest": 0,
-			"start": -30.000000,
+			"start": -20.000000,
 			"type": 8
 		}
 	],
-	"date": 1780811531,
+	"date": 1774184899,
 	"events": [
 		{
 			"event": 2001,
@@ -218,30 +233,30 @@
 			"type": 0
 		}, 
 		{
-			"event": 5011,
+			"event": 5005,
 			"frame": 0,
-			"options": "15",
+			"options": "muzzle_SG.txt",
 			"sequence": 65,
 			"type": 0
 		}, 
 		{
-			"event": 5011,
+			"event": 5005,
 			"frame": 0,
-			"options": "15",
+			"options": "muzzle_SG.txt",
 			"sequence": 69,
 			"type": 0
 		}, 
 		{
-			"event": 5011,
+			"event": 5005,
 			"frame": 0,
-			"options": "20",
+			"options": "muzzle_MP5.txt",
 			"sequence": 79,
 			"type": 0
 		}, 
 		{
-			"event": 5011,
+			"event": 5005,
 			"frame": 0,
-			"options": "20",
+			"options": "muzzle_MP5.txt",
 			"sequence": 83,
 			"type": 0
 		}, 
@@ -373,11 +388,11 @@
 		}
 	],
 	"id": 1414743113,
-	"md5": "195162c9086cee4193ae347a35782ecf",
+	"md5": "93dcb7ccb3411a8f9fc7c1d2bb683e44",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
-	"modid": 6,
-	"name": "sas.mdl",
+	"modid": 7,
+	"name": "SSBMMARIOLP.mdl",
 	"preview": true,
 	"readme": false,
 	"seq_groups": "1",
@@ -1291,9 +1306,54 @@
 			"fps": 10.000000,
 			"frames": 1,
 			"name": "ShannonCaldwell_v1.2"
+		}, 
+		{
+			"fps": 20.000000,
+			"frames": 9,
+			"name": "barnaclehit"
+		}, 
+		{
+			"fps": 25.000000,
+			"frames": 81,
+			"name": "barnaclepull"
+		}, 
+		{
+			"fps": 18.000000,
+			"frames": 36,
+			"name": "barnaclecrunch"
+		}, 
+		{
+			"fps": 15.000000,
+			"frames": 36,
+			"name": "barnaclechew"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 21,
+			"name": "use_console_loop"
+		}, 
+		{
+			"fps": 20.000000,
+			"frames": 201,
+			"name": "use_console_loop2"
+		}, 
+		{
+			"fps": 18.000000,
+			"frames": 66,
+			"name": "action_retina"
+		}, 
+		{
+			"fps": 12.000000,
+			"frames": 81,
+			"name": "action_studycart"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 22,
+			"name": "action_wave"
 		}
 	],
-	"size": 1882332,
+	"size": 2359224,
 	"skeleton": [
 		{
 			"name": "Bip01",
@@ -1324,102 +1384,92 @@
 			"parent": 5
 		}, 
 		{
-			"name": "Bip01 Head",
-			"parent": 6
-		}, 
-		{
-			"name": "-- Neck smooth",
-			"parent": 5
-		}, 
-		{
-			"name": "Bip01 L Arm",
-			"parent": 6
-		}, 
-		{
 			"name": "Bip01 R Arm",
 			"parent": 6
 		}, 
 		{
-			"name": "Bip01 L Arm1",
-			"parent": 9
-		}, 
-		{
 			"name": "Bip01 R Arm1",
-			"parent": 10
-		}, 
-		{
-			"name": "Bip01 L Arm2",
-			"parent": 11
-		}, 
-		{
-			"name": "Bip01 L Hand",
-			"parent": 13
+			"parent": 7
 		}, 
 		{
 			"name": "Bip01 R Arm2",
-			"parent": 12
+			"parent": 8
 		}, 
 		{
 			"name": "Bip01 R Hand",
-			"parent": 15
+			"parent": 9
+		}, 
+		{
+			"name": "Bip01 Head",
+			"parent": 6
 		}, 
 		{
 			"name": "Bip01 L Leg",
 			"parent": 1
 		}, 
 		{
-			"name": "Bip01 L Leg1",
-			"parent": 17
-		}, 
-		{
-			"name": "Bip01 L Foot",
-			"parent": 18
-		}, 
-		{
 			"name": "Bip01 R Leg",
 			"parent": 1
 		}, 
 		{
+			"name": "Bip01 L Leg1",
+			"parent": 12
+		}, 
+		{
 			"name": "Bip01 R Leg1",
-			"parent": 20
+			"parent": 13
+		}, 
+		{
+			"name": "Bip01 L Foot",
+			"parent": 14
 		}, 
 		{
 			"name": "Bip01 R Foot",
-			"parent": 21
+			"parent": 15
+		}, 
+		{
+			"name": "Bip01 L Arm",
+			"parent": 6
+		}, 
+		{
+			"name": "Bip01 L Arm1",
+			"parent": 18
+		}, 
+		{
+			"name": "Bip01 L Arm2",
+			"parent": 19
+		}, 
+		{
+			"name": "Bip01 L Hand",
+			"parent": 20
 		}
 	],
 	"skins": 1,
 	"t_model": false,
 	"textures": [
 		{
-			"flags": 0,
-			"height": 247,
-			"name": "head.bmp",
+			"flags": 3,
+			"height": 64,
+			"name": "burnice_body_map2_albedo - glasses.bmp",
+			"width": 64
+		}, 
+		{
+			"flags": 1,
+			"height": 512,
+			"name": "burnice_face_d.bmp",
 			"width": 512
 		}, 
 		{
-			"flags": 0,
-			"height": 432,
-			"name": "mask.bmp",
-			"width": 332
-		}, 
-		{
-			"flags": 0,
-			"height": 306,
-			"name": "hair.bmp",
-			"width": 500
-		}, 
-		{
-			"flags": 0,
-			"height": 253,
-			"name": "V_sheet.bmp",
+			"flags": 1,
+			"height": 512,
+			"name": "burnice_body_map1_albedo.bmp",
 			"width": 512
 		}, 
 		{
-			"flags": 0,
-			"height": 499,
-			"name": "hat.bmp",
-			"width": 504
+			"flags": 1,
+			"height": 512,
+			"name": "burnice_body_map2_albedo.bmp",
+			"width": 512
 		}
 	],
 	"version": 10
